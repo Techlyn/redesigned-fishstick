@@ -2,7 +2,7 @@
 layout: post
 title: "Ground Zero"
 date: 2025-05-23
-permalink: 'blog/0'
+permalink: 'redesigned-fishstick/blog/0'
 
 ---
 
